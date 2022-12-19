@@ -50,3 +50,20 @@ ul li ul{
 ul li:hover ul{
   display: block;
 }
+.container{
+  text-align: justify;
+  text-indent: 20px;
+}
+.border{
+  width: 550px;
+  height: 500px;
+  background-color: gray;
+  margin: 20px auto;
+  border-radius: 100;
+  border: 3px solid pink;
+}
+img{
+  width: 500px;
+  height: 200px;
+  border-radius: 80px;
+}
