@@ -1,21 +1,21 @@
-ody{
+body{ 
     margin: 0;
     background-image: url(background.jpg);
     background-size: cover;
     background-position: center;
   }
-  .nav{
+  .nav{ 
     width: 100%;
     background: #000033;
     height: 80px;
   }
-  ul{
+  ul{ 
     list-style: none;
     padding: 0;
     margin: 0;
     position: absolute;
   }
-  ul li {
+  ul li { 
     float: left;
     margin-top: 20px;
   }
@@ -30,7 +30,7 @@ ody{
     font-family: monospace;
     font-weight: bold;
   }
-  .active, nav1 ul li:hover
+  .active, nav ul li:hover 
   {
     background: #2bab0d;
     border-radius: 3px;
@@ -38,7 +38,7 @@ ody{
   a:hover{
     background: #669900;
   }
-  ul li ul{
+  ul li ul{ 
     background: #000033;
   }
   ul li ul li {
@@ -47,10 +47,10 @@ ody{
   ul li ul{
     display: none;
   }
-  ul li:hover ul{
+  ul li:hover ul{ 
     display: block;
   }
-  .container,h1{
+   .container,h1{
       text-align: justify;
       text-indent: 20px;
   }
@@ -67,3 +67,4 @@ ody{
       height: 200px;
       border-radius: 80px; 
     }
+    
